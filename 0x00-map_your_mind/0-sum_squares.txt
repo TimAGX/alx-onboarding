@@ -1,4 +1,4 @@
-step 1: Start
+Step 1: Start
 Step 2: Declare variables: num1, num2, sqr1, sqr2
 Step 3: Read num1, num2
 Step 4: sqr1 = num1 * num1
